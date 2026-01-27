@@ -15,7 +15,7 @@ Hello! 👋 I'm Felipe, a passionate software development student with a penchan
  <a href="https://github.com/FelipeFerreiradv/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/>
  </a>
-<a href="https://instagram.com/fe.buosi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/felipeferreiraco/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://github.com/FelipeFerreiradv?tab=followers">
 <img 
     alt="Seguidores" 
